@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Музыка on Музыка - это Жизнь</title>
+    <link>https://DmitryZhaworonkow.github.io/en/</link>
+    <description>Recent content in Музыка on Музыка - это Жизнь</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://DmitryZhaworonkow.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контакты</title>
+      <link>https://DmitryZhaworonkow.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DmitryZhaworonkow.github.io/en/contact/</guid>
+      <description>Способы обратной связи. Мне было бы очень приятно.
+Ваше имяАдрес электронной почтыТребуется адрес электронной почты.Сообщение</description>
+    </item>
+    <item>
+      <title>Обо мне</title>
+      <link>https://DmitryZhaworonkow.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DmitryZhaworonkow.github.io/en/about/</guid>
+      <description>ФИО: Савватеев Владимир Константинович. Прописка: Ярославская область, город Переславль-Залесский, улица Красный Текстильщик, дом 10, квартира 3. Фактическое проживание: город Ярославль, улица Автозаводская, дом 9/1, квартира 45. Дата рождения: 22.08.2003. Место учёбы: ЯрГУ имени П.Г.Демидова. Курс: ИТС-31БО. Главные качества: целеустремлённость,хладнокровность,общительность.</description>
+    </item>
+  </channel>
+</rss>

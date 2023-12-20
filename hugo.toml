@@ -1,0 +1,5 @@
+baseURL = 'https://DmitryZhaworonkow.github.io'
+languageCode = 'en-us'
+title = 'Музыка - это Жизнь'
+theme = 'ananke'
+publishDir="docs"
